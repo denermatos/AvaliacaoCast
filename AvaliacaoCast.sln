@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33027.164
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoConta.Api", "ProjetoConta.Api\ProjetoConta.Api.csproj", "{87493487-65B7-48E8-AB19-92D0B350C393}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoConta.Api", "ProjetoConta.Api\ProjetoConta.Api.csproj", "{87493487-65B7-48E8-AB19-92D0B350C393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoConta.Test", "ProjetoConta.Test\ProjetoConta.Test.csproj", "{B5BBC367-9653-437B-B701-716C0DB4868D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{87493487-65B7-48E8-AB19-92D0B350C393}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87493487-65B7-48E8-AB19-92D0B350C393}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87493487-65B7-48E8-AB19-92D0B350C393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5BBC367-9653-437B-B701-716C0DB4868D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BBC367-9653-437B-B701-716C0DB4868D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BBC367-9653-437B-B701-716C0DB4868D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BBC367-9653-437B-B701-716C0DB4868D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
